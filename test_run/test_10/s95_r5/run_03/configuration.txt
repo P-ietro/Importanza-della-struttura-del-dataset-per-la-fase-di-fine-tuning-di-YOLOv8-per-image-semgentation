@@ -1,0 +1,13 @@
+Number of logos used: 10
+Number of synthetic images: 95 	Number of real images: 5 
+
+dropbox
+citroen
+paypal
+royalmail
+tnt
+carglass
+japanposte
+hp
+tesla
+dunkindonuts

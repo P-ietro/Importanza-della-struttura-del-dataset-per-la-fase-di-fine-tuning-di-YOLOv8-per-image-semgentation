@@ -1,0 +1,13 @@
+Number of logos used: 10
+Number of synthetic images: 300 	Number of real images: 0 
+
+dunkindonuts
+easyjet
+louisvuitton
+twitter
+tesla
+roewe
+lamborghini
+youtube
+x
+volvo

@@ -1,0 +1,13 @@
+Number of logos used: 10
+Number of synthetic images: 100 	Number of real images: 0 
+
+microsoft
+gucci
+bmw
+pinterest
+avast
+mitsubishi
+instagram
+facebook
+bnp
+honda

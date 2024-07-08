@@ -1,0 +1,13 @@
+Number of logos used: 10
+Number of synthetic images: 280 	Number of real images: 20 
+
+telegram
+acura
+dunkindonuts
+mastercard
+bentley
+starbucks
+adobeillustrator
+amazon
+dell
+bugatti
